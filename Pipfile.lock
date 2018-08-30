@@ -1,0 +1,32 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "4afaa325a71f85cf3c6a0bf9681eaaa2f24e73757e63f9ebe67b9a9bd4d08345"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "curio": {
+            "hashes": [
+                "sha256:51d1a7b49b4f8dd1486ac785c72d522962e93ccfdcfc1f818f5c7553a307b5ef"
+            ],
+            "index": "pypi",
+            "version": "==0.9"
+        },
+        "nettirely": {
+            "git": "https://github.com/8Banana/nettirely",
+            "ref": "84d82f4b2e1233cfbb9f67d1a88c20ed4cb59bc0"
+        }
+    },
+    "develop": {}
+}
